@@ -1,0 +1,14 @@
+{
+  "name": "base",
+  "repo": "rinterest-team/base",
+  "description": "base",
+  "version": "0.1.0",
+  "keywords": ["base"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT",
+  "dependencies": {
+    "rinterest-team/attribute": "0.1.0",
+    "rinterest-team/util": "0.1.0"
+  }
+}
